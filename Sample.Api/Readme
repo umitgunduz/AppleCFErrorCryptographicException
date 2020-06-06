@@ -1,0 +1,5 @@
+if you use command "dotnet run --launch-profile=Development" 
+and after run Sample.Api.Test-> IndetityServerTest -> get_token test is completed correctly.
+
+if you use command  "dotnet run --launch-profile=Test"
+and after run Sample.Api.Test-> IndetityServerTest -> get_token test is failed getting Interop+AppleCrypto+AppleCFErrorCryptographicException
